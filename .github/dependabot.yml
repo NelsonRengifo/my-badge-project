@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"  # This will monitor GitHub Actions workflow files in your repository root
+    schedule:
+      interval: "weekly"
