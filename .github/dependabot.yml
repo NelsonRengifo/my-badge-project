@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"  # This tells Dependabot to look in the repository root for workflows
+    schedule:
+      interval: "weekly"
