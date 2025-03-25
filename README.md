@@ -2,4 +2,5 @@
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/NelsonRengifo/my-badge-project/badge)](https://api.securityscorecards.dev/projects/github.com/NelsonRengifo/my-badge-project)
 
-[![CodeQL](https://img.shields.io/badge/CodeQL-Passing-brightgreen)](https://github.com/NelsonRengifo/my-badge-project/security/code-scanning)
+[![OpenSSF Best Practices](https://img.shields.io/badge/OpenSSF_Best_Practices-Passing-brightgreen)](https://bestpractices.coreinfrastructure.org/projects/10306)
+
